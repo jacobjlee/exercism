@@ -16,7 +16,7 @@ Consider giving it a star ⭐️ if it was useful!
 </div>
 <br/>
 
-<!-- About the Project -->
+<!-- About The Project -->
 ## About The Project
 This repository serves as a central hub for my solutions to Exercism's track challenges, encompassing a wide range of programming languages such as `Python`, `Go`, `Java`, and beyond. Each solution provides an in-depth look into my problem-solving approach, offering not only a comprehensive record of my progress but also insights into my growth as a programmer across diverse language ecosystems.
 
@@ -33,6 +33,9 @@ This repository serves as a central hub for my solutions to Exercism's track cha
 ### Requirements
 
 - Python 3.6+
+
+### Installation & Usage
+See each directory for installation and usage instructions specific to each programming language.
 
 <!-- ### Installation
 Outline the steps required to install and set up the project environment. -->
@@ -55,7 +58,6 @@ Provide examples such as code snippets and screenshots. -->
 ## Roadmap
 Work in progress 🚧 🚀
 
-<!-- example -->
 - [ ] Python 
 - [ ] Go
 - [ ] Java
