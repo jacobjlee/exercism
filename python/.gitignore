@@ -1,0 +1,24 @@
+# General
+__pycache__/
+
+# IDEs and Editors
+.idea/
+.vscode/
+
+# Virtual Environments
+venv/
+.venv/
+
+# Testing
+.pytest_cache/
+
+# linter
+.ruff_cache/
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*~
+*.log
+.DS_Store
